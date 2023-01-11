@@ -1,4 +1,4 @@
-Hi 👋 My name is Enes Karamanoglu
+Hi 👋
 =================================
 
 Full Stack Developer
