@@ -4,7 +4,7 @@ Hi 👋 I'm Enes Karamanoğlu
 Full Stack Developer
 --------------------
 
-I am particularly interested in back-end and game development. I have experience working with various programming languages and technologies, and I am constantly learning new ones to improve my skills. It allow me to keep track of my progress and contributions, but it also enables me to contribute to open-source projects and be a part of the developer community.
+I am particularly interested in back-end, front-end and game development. I have experience working with various programming languages and technologies, and I am constantly learning new ones to improve my skills. It allow me to keep track of my progress and contributions, but it also enables me to contribute to open-source projects and be a part of the developer community.
 
 * 🌍  I'm based in Istanbul, Turkiye
 * ✉️  You can contact me at [eneskaramanoglu@gmail.com](mailto:eneskaramanoglu@gmail.com)
